@@ -22,7 +22,7 @@ export const InvoiceForm = () => {
     
   return (
     <div className=" mt-2">
-        <Row gutter={[16, 16]} justify='space-between' className="mx-2 my-3">
+        <Row gutter={[16, 16]} justify='space-between' className="mx-2 my-4">
          <Col xs={24} sm={24} md={12} lg={12} xl={12}>
           <div className="haeding1">New Invoice</div>
           <div className="text-med"style={{color:"#667085"}}>Create new invoice for your customers</div>

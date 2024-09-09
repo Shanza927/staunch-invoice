@@ -6,3 +6,7 @@
 .ant-select-suffix{
   margin-top: 10px;
 }
+.header{
+  height: 72px;
+  border-bottom: 1px solid #EAECF0;
+}
