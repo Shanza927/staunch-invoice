@@ -1,11 +1,15 @@
 import {  } from 'react'
-import './App.css'
+import "bootstrap/dist/css/bootstrap.min.css"
+
+import InvoiceForm from './components/InvoiceForm'
 
 function App() {
 
   return (
-    <div>
-    React ts project created 
+    <div className=' p-4 pb-5'>
+      
+     
+   <InvoiceForm/>
     </div>
   )
 }
