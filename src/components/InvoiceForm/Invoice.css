@@ -1,0 +1,49 @@
+.haeding1{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 38px;
+    color:#101828;
+    
+}
+.text-med{
+font-family: Inter !important;
+font-size: 14px;
+font-weight: 500;
+line-height: 20px;
+
+}
+.form-container{
+padding: 24px;
+border-radius: 24px;
+border: 1px solid #D0D5DD;
+opacity: 0px;
+height: 100%;
+box-shadow: 0px 8px 8px -4px #10182808;
+
+box-shadow: 0px 20px 24px -4px #10182814;
+background-color: #ffffff;
+
+}
+.invoice-preview{
+    background: #F5F5F5;
+    padding: 24px;
+    border-radius: 24px;
+    height: 100%;
+
+}
+.ant-form-item-label{
+    ::label{
+     font-family: Inter !important;
+font-size: 14px !important;
+font-weight: 500;
+line-height: 20px;
+    }
+}
+.heading4{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 38px;
+
+}
